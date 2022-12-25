@@ -44,7 +44,7 @@ else()
 endif()
 ```
 
-## error2
+## Error2
 
 This is an error due to the Eigen version.
 

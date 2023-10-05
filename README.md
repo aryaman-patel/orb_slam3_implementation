@@ -161,7 +161,7 @@ Now Simply just run (if you encounter compiler, try to run the this shell script
 ```
 # Processing the images- 
 
-[Kevin Robb](https://github.com/kevin-robb/orb_slam_implementation.git)'s provies a handy code ``get_images.py`` to convert the bag files to get images in every frame of the dataset.
+[Kevin Robb](https://github.com/kevin-robb/orb_slam_implementation.git) provies a handy code ``get_images.py`` to convert the bag files to get images in every frame of the dataset.
 The images had the following file structure:
 ```
 /Dataset 
